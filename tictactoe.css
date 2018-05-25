@@ -1,0 +1,39 @@
+h1
+{
+text-align: center;
+background: pink;
+}
+
+
+.body{
+	background: black;
+}
+.t1{
+	font-size: 15px;
+}
+td{
+	width: 100px;
+	height: 100px;
+	/*background: pink;*/
+  }
+  td:hover{
+  	border: 1px solid red;
+  }
+.vertical{
+		border-left: 2px solid black;
+		border-right: 2px solid black;}
+.my {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+
+}
+	/*.vertical {
+		border-left: 1px solid black;
+		border-right: 1px solid black;
+	}*/
+
+.changecolor{
+	background: green;
+	text-align: center;
+
+}
